@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoKhachHangDB</string>
+    <string name="hint"> Foods: \n Drink: \n Text: </string>
+    <string name="hint_coffee"> Drink1: \n Drink2: \n Text3: </string>
+    <string name="hint_karaoke"> Karaoke1: \n Drink2: \n Text3: </string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+</resources>
